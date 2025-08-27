@@ -2,6 +2,9 @@
 
 This is a simple clone of the classic *Asteroids* arcade game, built with Python and the `turtle` graphics module. You control a spaceship, dodge and destroy asteroids, and try to survive as long as you can.
 
+
+![Asteroids Gameplay](https://github.com/user-attachments/assets/9ace3030-3a5a-48fa-a18e-2101a9e91ff6)
+
 ## Features
 
 - Player-controlled ship that rotates, accelerates, and fires missiles
